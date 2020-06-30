@@ -1,0 +1,25 @@
+body{
+    color: #222;
+}
+
+#titulo{
+    text-align: center;
+    font-weight: bold;
+}
+
+#imagemMoeda{
+    width: 400px;
+}
+
+#botaoJogar{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
